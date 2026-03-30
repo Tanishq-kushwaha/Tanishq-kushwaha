@@ -12,6 +12,6 @@
 ### 📈 Current Focus
 - Improving my problem-solving skills in C++.
 - Learning Full Stack Web Development.
-- 
+
 ### 📫 Connect with me   
 - [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/)
