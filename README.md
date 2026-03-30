@@ -1,17 +1,27 @@
-# Hi there 👋, I'm Tanishq Kushwaha!
+# Hi, I'm Tanishq Kushwaha 👋
 
-### 🚀 About Me
-- 🎓 Pursuing **Diploma in Information Technology** at Government Polytechnic, Kanpur.
-- 💻 Passionate about **Web Development** and **DSA** (Data Structures and Algorithms) using C++.
-- 🎯 Goal: To build a career at **ISRO** or **Google**.
+### 🚀 Aspiring Software Engineer
+- 🎓 **Information Technology** Student at Government Polytechnic, Kanpur.
+- 💻 Specialized in **Web Development** & **DSA** (C++).
+- 🎯 Aiming for **ISRO** | **Google**.
+
+---
+
+### 🏅 Professional Certifications
+- 🛡️ **Foundations of Cybersecurity** – [Google](https://www.coursera.org/account/accomplishments/verify/PCQJQP65PTPO)
+- 💻 **Junior Software Developer** – NASSCOM (Grade: A)
+
+---
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, C++
-- **Tools:** VS Code, Git, GitHub, 
+- **Languages:** C++, JavaScript, HTML5, CSS3
+- **Tools:** Git, GitHub, VS Code
 
-### 📈 Current Focus
-- Improving my problem-solving skills in C++.
-- Learning Full Stack Web Development.
+---
 
-### 📫 Connect with me   
-- [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/)
+### 📊 GitHub Stats
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=dark)
+
+### 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha)
+- [Project: BTE-Result-Generator](https://github.com/Tanishq-kushwaha/BTE-Result-Generator)
