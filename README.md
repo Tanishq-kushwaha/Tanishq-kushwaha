@@ -23,5 +23,5 @@
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=dark)
 
 ### 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha)
+- [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/)
 - [Project: BTE-Result-Generator](https://github.com/Tanishq-kushwaha/BTE-Result-Generator)
