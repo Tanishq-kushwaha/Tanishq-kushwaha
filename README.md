@@ -24,4 +24,5 @@
 
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/)
+- [Project: My-Portfolio](https://tanishq-kushwaha.github.io/tanishq-portfolio/)
 - [Project: BTE-Result-Generator](https://github.com/Tanishq-kushwaha/BTE-Result-Generator)
