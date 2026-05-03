@@ -3,7 +3,7 @@
 <h3 align="center">Building logic-first systems • Learning relentlessly • Growing 1% every day</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;DSA+Learner+in+C%2FC%2B%2B;Cybersecurity+Enthusiast;Always+Building+Something+New&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+Logic-Driven+Systems;Full-Stack+Developer+in+Progress;DSA+%7C+Problem+Solver;Focused+on+Real-World+Impact" />
 </p>
 
 ---
@@ -79,8 +79,3 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 > I build systems that solve problems, scale with logic, and improve with iteration.
 
 ---
-
-### 📈 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-kushwaha&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
