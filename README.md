@@ -36,12 +36,9 @@ I am a first-year **Information Technology** student at Government Polytechnic, 
 ---
 
 ### 📊 GitHub Stats
-![Tanishq's GitHub stats](https://github-readme-stats.shion.dev/api?username=Tanishq-kushwaha&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-![Tanishq's Streak](https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=neon&hide_border=false)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tanishq-kushwaha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Tanishq's GitHub stats](https://github-readme-stats.shion.dev/api?username=Tanishq-kushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Tanishq's Streak](https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
