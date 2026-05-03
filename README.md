@@ -2,7 +2,8 @@
 
 ### 🚀 Aspiring Software Engineer | Problem Solver
 
-I am a first-year **Information Technology** student at Government Polytechnic, Kanpur. I don't just write syntax; I focus on building strong logic, executing thorough dry runs, and understanding the core architecture behind systems. 
+Systems Engineer | Logic-First Developer
+​I specialize in architectural integrity and algorithmic efficiency. Beyond writing syntax, I engineer solutions by prioritizing deep-logic validation, rigorous dry runs, and a fundamental understanding of system internals.
 
 **🎯 Current Focus:** Deep-diving into **Full-Stack Web Development** and mastering **Data Structures & Algorithms** (C/C++).
 
