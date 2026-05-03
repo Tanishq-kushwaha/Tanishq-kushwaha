@@ -3,7 +3,7 @@
 <h3 align="center">Building logic-first systems • Learning relentlessly • Growing 1% every day</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+Logic-Driven+Systems;Full-Stack+Developer+in+Progress;DSA+%7C+Problem+Solver;Focused+on+Real-World+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Full-Stack+Developer+in+Progress;DSA+%7C+Problem+Solver;Focused+on+Real-World+Impact" />
 </p>
 
 ---
