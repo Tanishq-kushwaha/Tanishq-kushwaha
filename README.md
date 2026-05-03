@@ -44,11 +44,14 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 ---
 
 ### 📊 GitHub Analytics
+![](https://github-readme-stats.shion.dev/api?username=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Tanishq-kushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tanishq-kushwaha&theme=tokyonight&hide_border=true" />
