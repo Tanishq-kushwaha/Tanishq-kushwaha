@@ -1,6 +1,6 @@
 # Hey, I'm Tanishq Kushwaha 👋
 
-<h3 align="center">Building logic-first systems • Learning relentlessly • Growing 1% every day</h3>
+<h3 align="center">Building scalable systems with logic-first thinking • Focused on real-world impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Full-Stack+Developer+in+Progress;DSA+%7C+Problem+Solver;Focused+on+Real-World+Impact" />
@@ -9,12 +9,11 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Focused on becoming a **high-level Software Engineer**
-- ⚙️ I build with a **logic-first + system-thinking approach**
-- 🔍 Strong believer in **dry runs, debugging, and deep understanding**
-- 🚀 Currently leveling up in **Full-Stack + DSA**
+- 🎯 Aspiring Software Engineer focused on **building scalable, real-world solutions**
+- ⚙️ I approach problems with **logic-first thinking & system design mindset**
+- 🔍 Strong focus on **debugging, dry runs, and deep understanding**
+- 🚀 Actively building projects while mastering **Full-Stack Development & DSA**
 - 📍 Based in India
-
 ---
 
 ### 🎯 Current Focus
@@ -25,15 +24,21 @@
 
 ---
 
+### 🎯 Goal
+- 🚀 Targeting opportunities in **high-impact tech environments**
+- 🛰️ Long-term vision: Contribute to organizations like ISRO
+
+---
+
 ### 🚀 Featured Work
+
 #### 🌐 Portfolio
 🔗 https://tanishq-kushwaha.github.io/tanishq-portfolio/  
-Minimal, responsive portfolio to showcase my journey and projects.
+A minimal, responsive portfolio designed to present projects with clarity and performance-focused UI.
 
 #### 📊 BTE Result Generator
 🔗 https://tanishq-kushwaha.github.io/BTE-Result-Generator/  
-Built using **Vanilla JS + Base64 logic** to generate structured results efficiently.
-
+A logic-driven tool built using **JavaScript + Base64 encoding** to generate structured student results efficiently. Focused on performance, simplicity, and real-world usability.
 ---
 
 ### 🛠️ Tech Stack
@@ -64,9 +69,8 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 
 ### 🏆 Achievements
 - 📜 Google Cybersecurity Foundations Certified
-- 💻 Junior software developer 
-NASSCOM Certified (Grade A)
-
+- 🏅 NASSCOM Certified Junior Software Developer (Grade A)
+  
 ---
 
 ### 📫 Connect With Me
