@@ -17,11 +17,11 @@
 
 ---
 
-### ⚡ What I'm Doing Right Now
-- 📚 Solving **Data Structures & Algorithms** problems daily  
-- 🌐 Building **real-world web projects**  
-- 🔐 Exploring **Cybersecurity fundamentals**  
-- 🧩 Improving **problem-solving & communication skills**
+### 🎯 Current Focus
+- 🌐 Learning Frontend by building **responsive, real-world interfaces**
+- ⚙️ Strengthening **JavaScript fundamentals & DOM manipulation**
+- 🧠 Practicing DSA with focus on **logic building & problem patterns**
+- 🔍 Improving **debugging skills through hands-on projects**
 
 ---
 
