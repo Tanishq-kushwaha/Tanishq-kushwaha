@@ -42,17 +42,19 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Tanishq-kushwaha&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 ---
 
 ### 🏆 Achievements
