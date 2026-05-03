@@ -42,6 +42,7 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 </p>
 
 ---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -55,6 +56,7 @@ Built using **Vanilla JS + Base64 logic** to generate structured results efficie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 ---
 
 ### 🏆 Achievements
