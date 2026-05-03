@@ -52,9 +52,9 @@ A logic-driven tool built using **JavaScript + Base64 encoding** to generate str
 
 <div align="center">
 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api?username=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Tanishq's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 <p align="center">
