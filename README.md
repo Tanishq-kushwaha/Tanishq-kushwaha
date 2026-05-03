@@ -1,48 +1,86 @@
-# Hi, I'm Tanishq Kushwaha 👋
+# Hey, I'm Tanishq Kushwaha 👋
 
-### 🚀 Aspiring Software Engineer | Problem Solver
+<h3 align="center">Building logic-first systems • Learning relentlessly • Growing 1% every day</h3>
 
-Systems Engineer | Logic-First Developer
-​I specialize in architectural integrity and algorithmic efficiency. Beyond writing syntax, I engineer solutions by prioritizing deep-logic validation, rigorous dry runs, and a fundamental understanding of system internals.
-
-**🎯 Current Focus:** Deep-diving into **Full-Stack Web Development** and mastering **Data Structures & Algorithms** (C/C++).
-
----
-
-### 🏅 Certifications & Qualifications
-- 🛡️ **Foundations of Cybersecurity** – [Google](https://www.coursera.org/account/accomplishments/verify/PCQJQP65PTPO)
-- 💻 **Junior Software Developer** – NASSCOM (Grade: A)
-- 📜 **Course on Computer Concepts (CCC)** – NIELIT
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;DSA+Learner+in+C%2FC%2B%2B;Cybersecurity+Enthusiast;Always+Building+Something+New&center=true&width=500&height=45">
+</p>
 
 ---
 
-### 🚀 Featured Projects
-- 🌐 **[My Portfolio](https://tanishq-kushwaha.github.io/tanishq-portfolio/)** – A personal portfolio showcasing my journey and skills.
-- 📊 **[BTE Result Generator](https://tanishq-kushwaha.github.io/BTE-Result-Generator/)** – Built with Vanilla JS, HTML, CSS, and Base64 encoding to efficiently generate result formats.
+### 🧠 About Me
+- 🎯 Focused on becoming a **high-level Software Engineer**
+- ⚙️ I build with a **logic-first + system-thinking approach**
+- 🔍 Strong believer in **dry runs, debugging, and deep understanding**
+- 🚀 Currently leveling up in **Full-Stack + DSA**
+- 📍 Based in India
+
+---
+
+### ⚡ What I'm Doing Right Now
+- 📚 Solving **Data Structures & Algorithms** problems daily  
+- 🌐 Building **real-world web projects**  
+- 🔐 Exploring **Cybersecurity fundamentals**  
+- 🧩 Improving **problem-solving & communication skills**
+
+---
+
+### 🚀 Featured Work
+#### 🌐 Portfolio
+🔗 https://tanishq-kushwaha.github.io/tanishq-portfolio/  
+Minimal, responsive portfolio to showcase my journey and projects.
+
+#### 📊 BTE Result Generator
+🔗 https://tanishq-kushwaha.github.io/BTE-Result-Generator/  
+Built using **Vanilla JS + Base64 logic** to generate structured results efficiently.
 
 ---
 
 ### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,git,github" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Tanishq's GitHub stats](https://github-readme-stats.shion.dev/api?username=Tanishq-kushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Tanishq's Streak](https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-kushwaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Tanishq-kushwaha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tanishx.kushwaha) 
+### 🏆 Achievements
+- 🥇 1st Place – IT Department Hackathon (Project: CODINGSAFARI)
+- 📜 Google Cybersecurity Foundations Certified
+- 💻 NASSCOM Certified (Grade A)
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/tanishq-kushwaha-846b05375/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/tanishx.kushwaha">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+### ⚔️ Developer Mindset
+> I don't just write code.  
+> I build systems that solve problems, scale with logic, and improve with iteration.
+
+---
+
+### 📈 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tanishq-kushwaha&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
