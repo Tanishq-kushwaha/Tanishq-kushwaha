@@ -1,20 +1,23 @@
 # Hi, I'm Tanishq Kushwaha 👋
 
-### 🚀 Aspiring Software Engineer
+### 🚀 Aspiring Software Engineer | Problem Solver
 
-I am an **Information Technology** student at Government Polytechnic, Kanpur, with a strong focus on **Web Development** and **Data Structures & Algorithms** (C++). 
+I am a first-year **Information Technology** student at Government Polytechnic, Kanpur. I don't just write syntax; I focus on building strong logic, executing thorough dry runs, and understanding the core architecture behind systems. 
+
+**🎯 Current Focus:** Deep-diving into **Full-Stack Web Development** and mastering **Data Structures & Algorithms** (C/C++).
 
 ---
 
-### 🏅 Certifications
+### 🏅 Certifications & Qualifications
 - 🛡️ **Foundations of Cybersecurity** – [Google](https://www.coursera.org/account/accomplishments/verify/PCQJQP65PTPO)
 - 💻 **Junior Software Developer** – NASSCOM (Grade: A)
+- 📜 **Course on Computer Concepts (CCC)** – NIELIT
 
 ---
 
 ### 🚀 Featured Projects
-- 🌐 [My Portfolio](https://tanishq-kushwaha.github.io/tanishq-portfolio/)
-- 📊 [BTE Result Generator](https://tanishq-kushwaha.github.io/BTE-Result-Generator/)
+- 🌐 **[My Portfolio](https://tanishq-kushwaha.github.io/tanishq-portfolio/)** – A personal portfolio showcasing my journey and skills.
+- 📊 **[BTE Result Generator](https://tanishq-kushwaha.github.io/BTE-Result-Generator/)** – Built with Vanilla JS, HTML, CSS, and Base64 encoding to efficiently generate result formats.
 
 ---
 
@@ -45,7 +48,3 @@ I am an **Information Technology** student at Government Polytechnic, Kanpur, wi
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-kushwaha-846b05375/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tanishx.kushwaha) 
-
-<br>
-
-[![](https://komarev.com/ghpvc/?username=Tanishq-kushwaha&icon=3&color=0)](https://visitcount.itsvg.in)
