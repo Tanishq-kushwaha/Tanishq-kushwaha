@@ -38,7 +38,7 @@ A minimal, responsive portfolio designed to present projects with clarity and pe
 
 #### 📊 BTE Result Generator
 🔗 https://tanishq-kushwaha.github.io/BTE-Result-Generator/  
-A logic-driven tool built using **JavaScript + Base64 encoding** to generate structured student results efficiently. Focused on performance, simplicity, and real-world usability.
+A logic-driven tool to generate structured student results efficiently. Focused on performance, simplicity, and real-world usability.
 ---
 
 ### 🛠️ Tech Stack
