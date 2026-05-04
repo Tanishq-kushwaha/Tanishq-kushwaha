@@ -30,6 +30,12 @@
 
 ---
 
+### 🏆 Achievements
+- 📜 Google Cybersecurity Foundations Certified
+- 🏅 NASSCOM Certified Junior Software Developer (Grade A)
+  
+---
+
 ### 🚀 Featured Work
 
 #### 🌐 Portfolio
@@ -64,14 +70,6 @@ A logic-driven tool to generate structured student results efficiently. Focused 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-kushwaha&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-### 🏆 Achievements
-- 📜 Google Cybersecurity Foundations Certified
-- 🏅 NASSCOM Certified Junior Software Developer (Grade A)
-  
----
 
 ### 📫 Connect With Me
 <p>
