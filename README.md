@@ -41,10 +41,10 @@
 #### 🌐 Portfolio
 🔗 https://tanishq-kushwaha.github.io/tanishq-portfolio/  
 A minimal, responsive portfolio designed to present projects with clarity and performance-focused UI.
-
 #### 📊 BTE Result Generator
 🔗 https://tanishq-kushwaha.github.io/BTE-Result-Generator/  
 A logic-driven tool to generate structured student results efficiently. Focused on performance, simplicity, and real-world usability.
+
 ---
 
 ### 🛠️ Tech Stack
