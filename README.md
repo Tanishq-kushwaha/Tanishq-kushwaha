@@ -60,5 +60,3 @@ A logic-driven tool to generate structured student results efficiently. Focused 
   </a>
 </p>
 
----
-
