@@ -1,7 +1,5 @@
 # Hey, I'm Tanishq Kushwaha 👋
 
-<h3 align="center">Building scalable systems with logic-first thinking • Focused on real-world impact</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;" />
 </p>
