@@ -1,7 +1,5 @@
 # Hey, I'm Tanishq Kushwaha 👋
 
----
-
 ### 🚀 Featured Work
 
 #### 🌐 Portfolio
