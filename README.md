@@ -10,6 +10,10 @@ A minimal, responsive portfolio designed to present projects with clarity and pe
 🔗 https://tanishq-kushwaha.github.io/BTE-Result-Generator/  
 A logic-driven tool to generate structured student results efficiently. Focused on performance, simplicity, and real-world usability.
 
+#### 🔐 Cyber-Safe Password Analyzer
+🔗 https://tanishq-kushwaha.github.io/Cyber-Safe-Password-Analyzer/  
+A zero-dependency, real-time password strength evaluation tool engineered with a custom regex validation engine and optimized DOM manipulation.
+
 ---
 
 ### 🛠️ Tech Stack
