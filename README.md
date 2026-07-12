@@ -57,3 +57,8 @@ A zero-dependency, real-time password strength evaluation tool engineered with a
   </a>
 </p>
 
+## 💡 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
