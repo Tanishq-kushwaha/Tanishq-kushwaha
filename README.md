@@ -21,6 +21,10 @@ A logic-driven tool to generate structured student results efficiently. Focused 
 🔗 https://tanishq-kushwaha.github.io/Cyber-Safe-Password-Analyzer/  
 A zero-dependency, real-time password strength evaluation tool engineered with a custom regex validation engine and optimized DOM manipulation.
 
+#### ✅ The Online C runner 
+🔗 https://tanishq-kushwaha.github.io/The-Online-C-Runner/
+A responsive online C compiler built with HTML, CSS, Bootstrap and Vanilla JavaScript. Users can write, compile and execute C programs directly in the browser using the Wandbox Compiler API.
+
 ---
 
 ### 🛠️ Tech Stack
