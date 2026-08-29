@@ -46,9 +46,9 @@ A responsive online C compiler built with HTML, CSS, Bootstrap and Vanilla JavaS
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tanishq-kushwaha&theme=tokyonight&hide_border=true" />
 </p>
-
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq-kushwaha&theme=dracula -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src=" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq-kushwaha&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Connect With Me
