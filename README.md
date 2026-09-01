@@ -29,7 +29,7 @@ A responsive online C compiler built with HTML, CSS, Bootstrap and Vanilla JavaS
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,git,github,sql" />
 </p>
 
 ---
