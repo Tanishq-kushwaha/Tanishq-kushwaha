@@ -4,7 +4,7 @@
 
 - 🎓 Information Technology
 - 💻 Passionate about Web Development & Cybersecurity
-- 🌱 Currently learning JavaScript, Git, C++, and DSA
+- 🌱 Currently learning JavaScript, Git, C , and DSA
 - ⚡ I enjoy building practical projects that solve real-world problems.
 
 ### 🚀 Featured Work
