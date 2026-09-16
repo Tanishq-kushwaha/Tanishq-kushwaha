@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanishq+Kushwaha+%F0%9F%91%8B;IT+Diploma+Student+%7C+Web+Dev+%26+C%2B%2B;Passionate+about+Cybersecurity+%26+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanishq+Kushwaha+%F0%9F%91%8B;IT+Diploma+Student+%7C+Web+Dev+%26+C%2B%2B;Passionate+about+Cybersecurity+%26+DSA" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-kushwaha&style=flat-square&color=blue" alt="Profile views" />
-</p>
 
 ---
 
@@ -89,8 +85,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanishq-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br>
