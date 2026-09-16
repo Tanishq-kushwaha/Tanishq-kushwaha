@@ -140,15 +140,6 @@
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/Tanishq-kushwaha?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tanishq-kushwaha?label=Followers&style=for-the-badge&color=58A6FF&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-kushwaha&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
-</p>
-
 ---
 
 ### 💡 Random Dev Quote
