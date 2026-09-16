@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanishq+Kushwaha+%F0%9F%91%8B;IT+Diploma+Student+%7C+Web+Dev+%26+C%2B%2B;Passionate+about+Cybersecurity+%26+DSA" alt="Typing SVG" />
 </h1>
 
----
-
 ### 👨‍💻 About Me
 
 - 🎓 **Diploma in Information Technology** @ Government Polytechnic, Kanpur
