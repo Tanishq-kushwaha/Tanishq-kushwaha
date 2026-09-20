@@ -111,15 +111,15 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanishq-kushwaha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
-</div>
+</div> -->
 
-<br>
+<!-- <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-kushwaha&theme=tokyo-night&hide_border=true&area=true&custom_title=Tanishq%27s%20Contribution%20Graph" />
-</div>
+</div> -->
 
 ---
 
