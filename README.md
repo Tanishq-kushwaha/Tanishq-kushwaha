@@ -2,7 +2,7 @@
 <!--                    🌊 WAVING HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tanishq%20Kushwaha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=Tanishq%20Kushwaha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
