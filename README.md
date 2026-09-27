@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Diploma in Information Technology** @ Government Polytechnic, Kanpur
+- 🎓 **Information Technology** 
 - 💻 Passionate about **Web Development** & **Cybersecurity**
 - 🌱 Currently learning **JavaScript**, **Git**, **C++**, and **DSA**
 - ⚡ I love building practical projects that solve real-world problems
