@@ -31,9 +31,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📄 ZenDoc</h3>
-      <p>100% client-side PDF & image toolkit. 27 tools, real AES-256 encryption, works offline. Zero uploads, zero servers.</p>
-      <a href="https://tanishq-kushwaha.github.io/ZenDoc/">
+      <h3>🌐 Portfolio</h3>
+      <p>A minimal, responsive portfolio designed to present projects with clarity and performance-focused UI.</p>
+      <a href="https://tanishq-kushwaha.github.io/tanishq-portfolio/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/Tanishq-kushwaha/ZenDoc">
