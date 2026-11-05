@@ -31,18 +31,22 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Portfolio</h3>
-      <p>A minimal, responsive portfolio designed to present projects with clarity and performance-focused UI.</p>
-      <a href="https://tanishq-kushwaha.github.io/tanishq-portfolio/">
+      <h3>📄 ZenDoc</h3>
+      <p><strong>34+ private PDF &amp; image tools</strong> — merge, split, compress, OCR, sign — plus on-device AI assistant, P2P sharing, and PII detection. 100% client-side, installable PWA.</p>
+      <a href="https://zendoc-gamma.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/Tanishq-kushwaha/ZenDoc">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <br>
+      <img src="https://img.shields.io/badge/34+-tools-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI-On--Device-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/PWA-Offline-orange?style=flat-square" />
     </td>
     <td width="50%">
       <h3>📊 BTE Result Generator</h3>
-      <p>A fast & secure tool to generate structured student result links efficiently.</p>
+      <p>A fast &amp; secure tool to generate structured student result links efficiently.</p>
       <a href="https://tanishq-kushwaha.github.io/BTE-Result-Generator/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
@@ -64,7 +68,7 @@
     </td>
     <td width="50%">
       <h3>✅ The Online C Runner</h3>
-      <p>Browser-based C compiler using Wandbox API. Write, compile & run C code instantly.</p>
+      <p>Browser-based C compiler using Wandbox API. Write, compile &amp; run C code instantly.</p>
       <a href="https://tanishq-kushwaha.github.io/The-Online-C-Runner/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
