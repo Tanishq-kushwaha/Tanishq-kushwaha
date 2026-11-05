@@ -33,11 +33,8 @@
     <td width="50%">
       <h3>📄 ZenDoc</h3>
       <p><strong>34+ private PDF &amp; image tools</strong> — merge, split, compress, OCR, sign — plus on-device AI assistant, P2P sharing, and PII detection. 100% client-side, installable PWA.</p>
-      <a href="https://zendoc-gamma.vercel.app/">
+      <a href="https://zendoc-gamma.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="https://github.com/Tanishq-kushwaha/ZenDoc">
-        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/34+-tools-blue?style=flat-square" />
@@ -47,10 +44,10 @@
     <td width="50%">
       <h3>📊 BTE Result Generator</h3>
       <p>A fast &amp; secure tool to generate structured student result links efficiently.</p>
-      <a href="https://tanishq-kushwaha.github.io/BTE-Result-Generator/">
+      <a href="https://tanishq-kushwaha.github.io/BTE-Result-Generator/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
-      <a href="https://github.com/Tanishq-kushwaha/BTE-Result-Generator">
+      <a href="https://github.com/Tanishq-kushwaha/BTE-Result-Generator" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -59,20 +56,20 @@
     <td width="50%">
       <h3>🔐 Cyber-Safe Password Analyzer</h3>
       <p>Zero-dependency real-time password strength analyzer with custom regex engine.</p>
-      <a href="https://tanishq-kushwaha.github.io/Cyber-Safe-Password-Analyzer/">
+      <a href="https://tanishq-kushwaha.github.io/Cyber-Safe-Password-Analyzer/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
-      <a href="https://github.com/Tanishq-kushwaha/Cyber-Safe-Password-Analyzer">
+      <a href="https://github.com/Tanishq-kushwaha/Cyber-Safe-Password-Analyzer" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>✅ The Online C Runner</h3>
       <p>Browser-based C compiler using Wandbox API. Write, compile &amp; run C code instantly.</p>
-      <a href="https://tanishq-kushwaha.github.io/The-Online-C-Runner/">
+      <a href="https://tanishq-kushwaha.github.io/The-Online-C-Runner/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
-      <a href="https://github.com/Tanishq-kushwaha/The-Online-C-Runner">
+      <a href="https://github.com/Tanishq-kushwaha/The-Online-C-Runner" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
